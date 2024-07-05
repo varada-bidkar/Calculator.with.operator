@@ -1,2 +1,6 @@
 # Calculator.with.operator
-Project Overview: I've created a sleek and user-friendly calculator that performs all basic operations such as addition, subtraction, multiplication, and division. This project is a significant milestone in my journey to becoming a skilled frontend developer.
+A basic yet functional calculator built using HTML, CSS, and JavaScript. This project performs essential operations like addition, subtraction, multiplication, and division. Designed with a clean and intuitive interface, it offers a seamless user experience across various devices. 
+*Responsive design for mobile and desktop*
+*Interactive buttons for user-friendly interaction*
+*Error handling for invalid inputs*
+Explore the code and contribute to further enhancements!
